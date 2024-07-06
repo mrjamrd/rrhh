@@ -1,0 +1,99 @@
+body{
+  background-color: #f4f4f4;
+
+}
+textarea {
+    resize: none;
+}
+#wraper{
+ width:400px;
+ margin: auto;
+
+}
+#logo{
+text-align: center;
+
+}
+
+#login{
+text-align: center;
+
+}
+.form-login{
+ padding-top: 5px;
+
+
+}
+#wrapper{
+
+
+}
+header{
+
+ height: 80px;
+}
+.color-h{
+background-color: #0BB71C;
+}
+#content{
+max-width: 940px;
+margin: auto;
+}
+
+footer{
+ text-align: center;
+}
+#alert{
+   color: #FF0202;
+   text-align: center;
+}
+#alert-emp{
+  color: #FF0202;
+  text-align: center;
+}
+#alert-puesto{
+  color: #FF0202;
+  text-align: center;
+}
+#alert-vac{
+  color: #FF0202;
+  text-align: center;
+}
+#alert_status{
+  color: #FF0202;
+  text-align: center;
+}
+#alert_permiso{
+  color: #FF0202;
+  text-align: center;
+}
+#alert_lic{
+  color: #FF0202;
+  text-align: center;
+}
+#alert_dept{
+  color: #FF0202;
+  text-align: center;
+}
+#mensaje{
+  color: green;
+  text-align: center;
+}
+#mensaje-emp{
+  color: green;
+  text-align: center;
+}
+#mensaje-puesto{
+  color: green;
+  text-align: center;
+}
+#mensaje-vac{
+  color: green;
+  text-align: center;
+}
+
+#alert-puesto{}
+.form-empleado{
+  width: 900px;
+  margin: auto;
+}
